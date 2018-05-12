@@ -1,0 +1,32 @@
+_repo: Potential-Enemy_40954
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40954-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Reynolds, Mack
+    aliases:
+    - Reynolds, Dallas McCord
+    - McCord, Guy
+    birthdate: 1917
+    deathdate: 1983
+    gutenberg_agent_id: '25744'
+    url: http://www.gutenberg.org/2009/agents/25744
+    wikipedia: http://en.wikipedia.org/wiki/Mack_Reynolds
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2012-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Potential Enemy
+url: http://www.gutenberg.org/ebooks/40954
